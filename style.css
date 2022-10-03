@@ -50,3 +50,9 @@ body{
     text-decoration: none;
     color: blueviolet;
 }
+
+@media only screen and (max-width: 640px){
+    .foto{
+        margin-left: -50pxs;
+    }
+}
