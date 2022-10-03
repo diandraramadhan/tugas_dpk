@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Poppins&display=swap');
+
+body{
+    background-color: whitesmoke;
+    font-family: 'Poppins', sans-serif;
+}
+
+.pembungkus{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.tengah{
+    text-align: center;
+}
+
+.kartu{
+    width: 267px;
+    float: left;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    margin: 20px;
+    border-radius: 4px;
+    transition: 0.3s;
+    background-color: white;
+    margin-top: 20px;
+}
+
+.kartu:hover{
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.foto{
+    width: 4cm;
+    height: 4cm;
+    margin-left: 50px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+.nama{
+    padding: 15px;
+    text-align: center;
+}
+
+.tebal{
+    font-weight: bold;
+}
+
+.instagram{
+    text-decoration: none;
+    color: blueviolet;
+}
