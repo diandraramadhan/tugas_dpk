@@ -53,6 +53,6 @@ body{
 
 @media only screen and (max-width: 640px){
     .kartu{
-        margin-right: 50px;
+        margin-left: -50px;
     }
 }
