@@ -53,6 +53,6 @@ body{
 
 @media only screen and (max-width: 640px){
     .foto{
-        margin-left: -50pxs;
+        margin-right: 50pxs;
     }
 }
